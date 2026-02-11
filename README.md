@@ -9,13 +9,13 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rishi-majmudar-868665249/">
+  <a href="https://www.linkedin.com/in/rishi-majmudar-868665249/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rishimajmudar11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio.rishimajmudar.me/">
+  <a href="https://portfolio.rishimajmudar.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
@@ -94,6 +94,24 @@ GitHub: https://github.com/Rishi-Cs-ms/microservice-architecture-aws-eks
 Live: https://portfolio.rishimajmudar.me/  
 App Code: https://github.com/Rishi-Cs-ms/rishimajmudar.me  
 Infrastructure: https://github.com/Rishi-Cs-ms/rishimajmudar.me-infra  
+
+---
+
+# 💼 Experience  
+
+### Lecturer – KPGU, Vadodara, India  
+**5 Months Experience**
+- Delivered lectures on Computer Science fundamentals, AWS cloud concepts, and networking principles  
+- Conducted hands-on sessions on EC2, S3, IAM, and VPC fundamentals  
+- Guided students on web technologies and backend development  
+- Mentored students on project development and deployment practices  
+
+### Web Developer Intern – Royalsoft Solutions, Vadodara, India  
+**4 Months Internship**
+- Developed responsive web interfaces using HTML, CSS, and JavaScript  
+- Built backend APIs using Node.js and Express  
+- Assisted in REST API development and debugging  
+- Participated in testing and deployment activities
 
 ---
 
