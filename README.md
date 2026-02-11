@@ -59,11 +59,11 @@
 ### 💼 Experience
 
 **Lecturer** | KPGU, Vadodara, India  
-*Aug 2023 – Dec 2023*  
+*5 Months*  
 - Delivered lectures on computer science fundamentals and web technologies.
 
 **Web Developer Intern** | Royalsoft Solutions, Vadodara, India  
-*Jan 2023 – Apr 2023*  
+*4 Months*  
 - Developed responsive web interfaces using HTML, CSS, and JavaScript. Supported backend development using Node.js and Express.
 
 ---
