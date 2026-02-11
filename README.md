@@ -22,6 +22,18 @@
 
 ---
 
+# 🎓 Education
+
+### Master of Engineering (MEng) in Software Engineering  
+**Carleton University, Ottawa, Canada**  
+2025  
+
+### Bachelor of Engineering in Computer Science  
+**Gujarat Technological University (GTU), Gujarat, India**  
+2023  
+
+---
+
 ## 🏆 Certifications
 
 - **AWS Certified Solutions Architect – Associate**  
@@ -111,7 +123,7 @@ Infrastructure: https://github.com/Rishi-Cs-ms/rishimajmudar.me-infra
 - Developed responsive web interfaces using HTML, CSS, and JavaScript  
 - Built backend APIs using Node.js and Express  
 - Assisted in REST API development and debugging  
-- Participated in testing and deployment activities
+- Participated in testing and deployment activities  
 
 ---
 
