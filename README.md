@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-  I build secure, scalable, and production-ready cloud infrastructure on AWS.<br>
-  Strong focus on Infrastructure as Code, Kubernetes, CI/CD automation, and cloud security best practices.
+  I build secure, scalable, cost-optimized, and production-ready cloud infrastructure on AWS.<br>
+  Strong focus on Infrastructure as Code, Kubernetes, CI/CD automation, cloud security best practices, and cost optimization strategies.
 </p>
 
 <div align="center">
@@ -61,6 +61,7 @@ GitHub: https://github.com/Rishi-Cs-ms/ai-doc-parser
 - RDS Multi-AZ  
 - Secure VPC & IAM  
 - CI/CD with GitHub Actions  
+- Cost-aware architecture design  
 
 Tech Stack: AWS, Terraform, GitHub Actions  
 
@@ -76,6 +77,7 @@ GitHub: https://github.com/Rishi-Cs-ms/aws-three-tier-architecture
 - Docker Containerization  
 - Terraform Infrastructure  
 - CI/CD using GitHub Actions  
+- Resource optimization & scaling policies  
 
 GitHub: https://github.com/Rishi-Cs-ms/microservice-architecture-aws-eks  
 
@@ -151,3 +153,4 @@ Infrastructure: https://github.com/Rishi-Cs-ms/rishimajmudar.me-infra
 - CI/CD Pipeline Implementation  
 - Cloud Monitoring & Observability  
 - IAM Least Privilege Implementation  
+- Cloud Cost Optimization & Resource Efficiency  
