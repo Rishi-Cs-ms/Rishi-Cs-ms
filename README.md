@@ -77,7 +77,6 @@ GitHub: https://github.com/Rishi-Cs-ms/ai-doc-parser
 
 Tech Stack: AWS, Terraform, GitHub Actions  
 
-Live Demo: https://aws-three-tier-architecture.rishimajmudar.me/  
 GitHub: https://github.com/Rishi-Cs-ms/aws-three-tier-architecture  
 
 ---
