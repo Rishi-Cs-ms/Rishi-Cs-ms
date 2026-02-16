@@ -1,11 +1,11 @@
- now also update the readme file of my github <div align="center">
+<div align="center">
   <h1>Hi, I'm Rishi Majmudar 👋</h1>
-  <h3>Cloud & DevOps Engineer | AWS | Kubernetes | Terraform</h3>
+  <h3>AWS Cloud Engineer | Kubernetes (CKA) | Terraform | Cloud Security</h3>
 </div>
 
 <p align="center">
-  I build secure, scalable, cost-optimized, and production-ready cloud infrastructure on AWS.<br>
-  Strong focus on Infrastructure as Code, Kubernetes, CI/CD automation, cloud security best practices, and cost optimization strategies.
+  I design and deploy secure, scalable, and highly available cloud infrastructure on AWS.<br>
+  Specialized in Infrastructure as Code (Terraform), serverless architectures, Amazon EKS, CI/CD automation, and cloud security best practices.
 </p>
 
 <div align="center">
@@ -22,164 +22,138 @@
 
 ---
 
-# 🎓 Education
+# 🚀 Featured Cloud Projects
 
-### Master of Engineering (MEng) in Software Engineering  
-**Carleton University, Ottawa, Canada**  
-2025  
+## 🔹 AI Document Parser – Serverless Event-Driven Architecture
 
-### Bachelor of Engineering in Computer Science  
-**Gujarat Technological University (GTU), Gujarat, India**  
-2023  
+**Architecture Highlights**
+- AWS Lambda (asynchronous execution)
+- API Gateway
+- AWS Bedrock integration
+- S3 for document storage
+- DynamoDB for metadata
+- SQS for decoupled processing
+- SNS notifications
+- Cognito authentication
+- IAM least-privilege policies
+- CloudWatch monitoring
 
----
+**Impact**
+- Reduced document processing time by 60%
+- Fully serverless and scalable architecture
+- Secure, production-style deployment
 
-## 🏆 Certifications
+Live Demo:  
+https://ai-doc-parser.rishimajmudar.me/
 
-- **AWS Certified Solutions Architect – Associate**  
-  🔗 https://www.credly.com/badges/225b4e21-1626-4b0f-991b-7cd3a2a01d22/linked_in_profile  
-
-- **Certified Kubernetes Administrator (CKA)**  
-  🔗 https://learn.kodekloud.com/certificate/0ac21477-5391-42e1-b44f-f9a8705188cd  
-
-- **Terraform – Infrastructure as Code**  
-  🔗 https://learn.kodekloud.com/user/certificate/28a0abd1-bf25-497a-b69f-9b65ced43105  
-
----
-
-# 🚀 Cloud & DevOps Projects
-
-## 🔹 AI Document Parser (Serverless Architecture)
-
-- AWS Lambda, API Gateway, Bedrock  
-- Cognito Authentication  
-- DynamoDB Storage  
-- CloudWatch Logs & Metrics  
-- IAM Least Privilege Principle  
-- CloudFront + S3  
-
-Tech Stack: AWS, Serverless, React  
-
-Live Demo: https://ai-doc-parser.rishimajmudar.me/  
-GitHub: https://github.com/Rishi-Cs-ms/ai-doc-parser  
+GitHub:  
+https://github.com/Rishi-Cs-ms/ai-doc-parser
 
 ---
 
-## 🔹 Three-Tier Architecture (Production-Grade Infrastructure)
+## 🔹 AWS Three-Tier Architecture – Production Infrastructure (IaC)
 
-- Terraform (Infrastructure as Code)  
-- EC2 Auto Scaling Group  
-- Application Load Balancer  
-- RDS Multi-AZ  
-- Secure VPC & IAM  
-- CI/CD with GitHub Actions  
-- Cost-aware architecture design  
+**Infrastructure Components**
+- Terraform (Infrastructure as Code)
+- EC2 Auto Scaling Group
+- Application Load Balancer
+- RDS Multi-AZ
+- Secure VPC (Public/Private Subnets)
+- NAT Gateway
+- IAM Security Controls
+- GitHub Actions CI/CD
 
-Tech Stack: AWS, Terraform, GitHub Actions  
+**Key Focus**
+- High availability
+- Multi-AZ deployment
+- Automated provisioning
+- Cost-aware architecture
 
-GitHub: https://github.com/Rishi-Cs-ms/aws-three-tier-architecture  
-
----
-
-## 🔹 Microservices Booking App (EKS + DevOps)
-
-- Amazon EKS  
-- Kubernetes Ingress & HPA  
-- Docker Containerization  
-- Terraform Infrastructure  
-- CI/CD using GitHub Actions  
-- Resource optimization & scaling policies  
-
-GitHub: https://github.com/Rishi-Cs-ms/microservice-architecture-aws-eks  
+GitHub:  
+https://github.com/Rishi-Cs-ms/aws-three-tier-architecture
 
 ---
 
-## 🔹 Cloud Portfolio (Secure Static Hosting + IaC)
+## 🔹 Microservices Deployment on Amazon EKS
 
-- S3 Static Hosting  
-- CloudFront Distribution  
-- AWS WAF  
-- Terraform Provisioning  
-- GitHub Actions CI/CD  
+**Cloud-Native Deployment**
+- Amazon EKS (managed node groups)
+- Docker containerization
+- Kubernetes RBAC
+- IAM Roles for Service Accounts
+- Horizontal Pod Autoscaler (HPA)
+- CI/CD via GitHub Actions
 
-Live: https://portfolio.rishimajmudar.me/  
-App Code: https://github.com/Rishi-Cs-ms/rishimajmudar.me  
-Infrastructure: https://github.com/Rishi-Cs-ms/rishimajmudar.me-infra  
+**Key Focus**
+- Scalable container workloads
+- Secure service communication
+- Production-style orchestration
 
----
-
-# 💼 Experience  
-
-### Lecturer – KPGU, Vadodara, India  
-**5 Months Experience**
-- Delivered lectures on Computer Science fundamentals, AWS cloud concepts, and networking principles  
-- Conducted hands-on sessions on EC2, S3, IAM, and VPC fundamentals  
-- Guided students on web technologies and backend development  
-- Mentored students on project development and deployment practices  
-
-### Web Developer Intern – Royalsoft Solutions, Vadodara, India  
-**4 Months Internship**
-- Developed responsive web interfaces using HTML, CSS, and JavaScript  
-- Built backend APIs using Node.js and Express  
-- Assisted in REST API development and debugging  
-- Participated in testing and deployment activities  
+GitHub:  
+https://github.com/Rishi-Cs-ms/microservice-architecture-aws-eks
 
 ---
 
-# 🛠 Technical Skills
+## 🔹 Cloud Portfolio Infrastructure
 
-## ☁️ Cloud (AWS)
+- S3 Static Hosting
+- CloudFront CDN
+- Route53 Custom Domain
+- AWS WAF Protection
+- Terraform provisioning
+- CI/CD automation
 
-<p>
-<img src="https://img.shields.io/badge/EC2-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/S3-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Lambda-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/API%20Gateway-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/RDS-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/CloudFront-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/IAM-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/WAF-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/CloudWatch-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/VPC-orange?style=flat-square"/>
-</p>
+Live:  
+https://portfolio.rishimajmudar.me/
 
-## 🚀 DevOps & Infrastructure
+App Code:  
+https://github.com/Rishi-Cs-ms/rishimajmudar.me
 
-<p>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Infrastructure%20as%20Code-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/Observability-grey?style=flat-square"/>
-</p>
-
-## 💻 Backend
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-grey?style=flat-square"/>
-</p>
-
-## 🎨 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
+Infrastructure Code:  
+https://github.com/Rishi-Cs-ms/rishimajmudar.me-infra
 
 ---
 
-## 📌 Core Strengths
+# 🏆 Certifications
 
-- Secure AWS Architecture Design  
-- Terraform Infrastructure Automation  
-- Kubernetes Production Deployments  
-- CI/CD Pipeline Implementation  
-- Cloud Monitoring & Observability  
-- IAM Least Privilege Implementation  
-- Cloud Cost Optimization & Resource Efficiency  
+- **AWS Certified Solutions Architect – Associate**
+- **Certified Kubernetes Administrator (CKA)**
+- **HashiCorp Terraform – Infrastructure as Code**
+
+---
+
+# ☁️ Core Technical Expertise
+
+### Cloud (AWS)
+EC2 • VPC • IAM • S3 • RDS • Lambda • API Gateway • CloudFront • Route53 • WAF • CloudWatch • Auto Scaling • EKS
+
+### Infrastructure & Containers
+Terraform • Docker • Kubernetes • Amazon EKS • HPA • RBAC
+
+### CI/CD & Automation
+GitHub Actions • Infrastructure Deployment • Pipeline Automation
+
+### Programming
+Python • Node.js • REST APIs • JavaScript
+
+---
+
+# 💼 Experience
+
+### Cloud & Networking Lecturer  
+KPGU University, India | Aug 2023 – Dec 2023
+- Delivered AWS cloud and networking lectures to 150+ students
+- Conducted hands-on labs on EC2, S3, IAM, and VPC
+- Mentored students on cloud deployment projects
+
+### Full Stack Web Developer Intern  
+Royalsoft Solutions, India | Jan 2023 – Apr 2023
+- Developed backend APIs using Node.js and Express
+- Optimized REST endpoints improving performance by 30%
+- Assisted in debugging production applications
+
+---
+
+# 🎯 Focus
+
+Currently seeking **entry-level AWS Cloud Engineer opportunities in Canada**, focused on cloud infrastructure, automation, security, and scalable architecture design.
