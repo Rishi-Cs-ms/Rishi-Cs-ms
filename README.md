@@ -1,191 +1,242 @@
-# Hi there, I'm Rishi Majmudar 👋
-
-### Full Stack Developer | Cloud-Native Applications | AWS & Kubernetes
-
-<p align="center">
-Full Stack Developer with 3+ years of experience building scalable web applications,
-cloud-native microservices, and distributed systems.
-
-Specialized in <b>Python</b>, <b>FastAPI</b>, <b>Django</b>, <b>React</b>, <b>TypeScript</b>, <b>AWS</b>, <b>Kubernetes</b>, and modern DevOps practices.
-
-Passionate about designing high-performance backend systems, event-driven architectures,
-and AI-powered applications.
-
-</p>
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rishi-majmudar-868665249/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+# Hi 👋, I'm Rishi Majmudar
 
-<a href="mailto:rishimajmudar25@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### Full Stack Developer | Cloud-Native Engineer | AWS & Kubernetes
 
-<a href="https://portfolio.rishimajmudar.me/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cloud-Native+Engineer;AWS+Certified+Solutions+Architect;Certified+Kubernetes+Administrator;Building+Scalable+Applications;AI+%7C+Cloud+%7C+DevOps" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rishimajmudar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AWS-SAA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CKA-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 
 </div>
 
 ---
 
-# 🏆 Certifications
-
-|                                                                                                                                                                                                | Certification                                     | Issued By           |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------- | ------------------- |
-| <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" width="80"> | **AWS Certified Solutions Architect – Associate** | Amazon Web Services |
-|                                                 <img src="https://www.cncf.io/wp-content/uploads/2020/07/kubernetes-icon-color.svg" width="80">                                                | **Certified Kubernetes Administrator (CKA)**      | CNCF                |
-|                                                  <img src="https://www.datocms-assets.com/2885/1629941242-logo-terraform-main.svg" width="80">                                                 | **Terraform Associate**                           | HashiCorp           |
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Cloud%20Engineer%20%7C%20Full%20Stack%20Developer&fontSize=40&fontAlignY=40"/>
+</p>
 
 ---
 
-# 💼 Professional Experience
+## 🚀 About Me
 
-## Full Stack Developer | DXC Technology
+* 💻 Full Stack Developer with 3+ years of experience building scalable applications
+* ☁️ AWS Certified Solutions Architect – Associate
+* ⚙️ Certified Kubernetes Administrator (CKA)
+* 🐳 Experienced with Docker, Kubernetes, Terraform, and CI/CD pipelines
+* 🔥 Specialized in Python, FastAPI, Django, React, TypeScript, and Microservices
+* 📊 Experienced with Kafka, Redis, PostgreSQL, MongoDB, and Distributed Systems
+* 🤖 Building AI-powered applications using Amazon Bedrock, OpenAI, LangChain, and RAG
+* 🎓 Master of Engineering in Software Engineering from Carleton University
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rishi-majmudar-868665249/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rishimajmudar25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portfolio.rishimajmudar.me/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🏆 Certifications
+
+| Certification                                 | Issued By           |
+| --------------------------------------------- | ------------------- |
+| AWS Certified Solutions Architect – Associate | Amazon Web Services |
+| Certified Kubernetes Administrator (CKA)      | CNCF                |
+| Terraform Associate                           | HashiCorp           |
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,sql"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### Full Stack Developer | DXC Technology
 
 📍 Canada | Jan 2025 – Present
 
-* Developed and modernized Python microservices using FastAPI for large-scale financial systems.
-* Built Kafka-based event-driven architectures processing 15,000+ trade events per second.
-* Optimized PostgreSQL and MongoDB databases, improving query performance by 20%.
-* Implemented Redis caching, reducing API response times by over 35%.
-* Developed React + TypeScript dashboards for operational monitoring and trade lineage tracking.
-* Containerized services with Docker and deployed on Kubernetes clusters with autoscaling.
-* Improved platform reliability to 99.9% uptime.
-* Strengthened CI/CD pipelines using Jenkins, GitHub Actions, PyTest, and automated testing.
+* Developed Python-based microservices using FastAPI for enterprise-scale systems
+* Built Kafka-powered event-driven architectures processing 15,000+ events per second
+* Optimized PostgreSQL and MongoDB performance, improving query response times
+* Implemented Redis caching reducing API latency by over 35%
+* Built React + TypeScript dashboards for monitoring and operational workflows
+* Containerized applications using Docker and Kubernetes
+* Improved reliability with CI/CD pipelines using Jenkins and GitHub Actions
 
-### Tech Stack
-
-`Python` `FastAPI` `Kafka` `Redis` `PostgreSQL` `MongoDB` `React` `TypeScript` `Docker` `Kubernetes` `Jenkins`
+**Tech Stack:** Python • FastAPI • Kafka • Redis • PostgreSQL • MongoDB • React • TypeScript • Docker • Kubernetes
 
 ---
 
-## Full Stack Developer | Newgen Software
+### Full Stack Developer | Newgen Software
 
 📍 India | May 2022 – Dec 2023
 
-* Designed and developed microservices using FastAPI and Django REST Framework.
-* Built scalable backend services for workflow management and document processing.
-* Implemented Kafka event streaming architecture for real-time synchronization.
-* Optimized PostgreSQL databases through indexing and query tuning.
-* Developed React.js and TypeScript interfaces improving user productivity.
-* Integrated OAuth2 and Keycloak-based authentication and authorization.
-* Built CI/CD pipelines using GitLab CI, Jenkins, Docker, and SonarQube.
-* Improved API latency and overall application performance.
+* Developed scalable microservices using FastAPI and Django REST Framework
+* Built workflow management and document-processing systems
+* Implemented Kafka event streaming for real-time synchronization
+* Optimized PostgreSQL databases and backend APIs
+* Developed React.js + TypeScript applications
+* Integrated OAuth2 and Keycloak-based authentication
+* Automated deployments with Jenkins, Docker, GitLab CI and SonarQube
 
-### Tech Stack
-
-`Python` `FastAPI` `Django REST` `React.js` `TypeScript` `Kafka` `PostgreSQL` `Docker` `Jenkins`
+**Tech Stack:** Python • FastAPI • Django • React • TypeScript • Kafka • PostgreSQL • Docker • Jenkins
 
 ---
 
-# 🚀 Projects
+## 🚀 Featured Projects
 
-## AI Document Parser
+### 📄 AI Document Parser
 
-### Technologies
+**AWS Bedrock • Textract • DynamoDB • Lambda • CloudFront • React**
 
-AWS Bedrock • Textract • Lambda • DynamoDB • CloudFront • S3 • React
+* Built a serverless AI-powered document validation platform
+* Automated OCR and document processing workflows
+* Processed 1,000+ documents with zero idle compute costs
+* Reduced infrastructure costs by 40%
+* Achieved sub-10ms metadata retrieval using DynamoDB GSIs
 
-* Built a serverless document processing platform using AWS services.
-* Automated OCR and document validation workflows using Amazon Textract and Bedrock.
-* Processed 1,000+ documents with zero idle compute costs.
-* Reduced infrastructure costs by 40%.
-* Optimized DynamoDB using Global Secondary Indexes (GSI) achieving sub-10ms query latency.
-
-🔗 https://ai-doc-parser.rishimajmudar.me/
+🔗 https://ai-doc-parser.rishimajmudar.me
 
 ---
 
-## AWS Three-Tier Architecture
+### ☁️ AWS Three-Tier Architecture
 
-### Technologies
+**AWS • Terraform • GitHub Actions • ALB • CloudFront**
 
-AWS • Terraform • GitHub Actions • CloudFront • ALB
+* Provisioned production-ready infrastructure using Terraform modules
+* Implemented secure networking and scalable architecture
+* Integrated GitHub Actions OIDC authentication
+* Improved deployment consistency and security posture
 
-* Provisioned production-grade infrastructure using Terraform modules.
-* Implemented secure networking, ALB, Auto Scaling, and RDS.
-* Integrated GitHub Actions OIDC authentication.
-* Reduced deployment effort and ensured infrastructure consistency.
-* Improved security by eliminating long-lived cloud credentials.
-
-🔗 https://aws-three-tier-architecture.rishimajmudar.me/
+🔗 https://aws-three-tier-architecture.rishimajmudar.me
 
 ---
 
-## Cloud Portfolio Website
+### 🐳 Microservices on Amazon EKS
 
-### Technologies
+**Amazon EKS • Kubernetes • Docker • Terraform • MongoDB**
 
-AWS S3 • CloudFront • Route53 • WAF
-
-* Designed and deployed a highly available personal portfolio website.
-* Configured CloudFront CDN and AWS WAF for performance and security.
-* Implemented custom domain management and HTTPS.
-
-🔗 https://portfolio.rishimajmudar.me/
-
----
-
-## Microservices on Amazon EKS
-
-### Technologies
-
-Amazon EKS • Kubernetes • Docker • Terraform • MongoDB
-
-* Deployed containerized microservices on Amazon EKS.
-* Configured Horizontal Pod Autoscaling (HPA) and self-healing workloads.
-* Implemented RBAC and IAM Roles for Service Accounts (IRSA).
-* Managed stateful MongoDB workloads with persistent storage.
-* Achieved high availability and zero-loss scaling.
+* Deployed microservices on Amazon EKS
+* Configured HPA and self-healing workloads
+* Implemented RBAC and IRSA security controls
+* Managed MongoDB StatefulSets and persistent storage
 
 🔗 https://github.com/rishimajmudar
 
 ---
 
-# 🛠 Technical Skills
+### 🌐 Cloud Portfolio Website
 
-| Category                | Skills                                                                 |
-| ----------------------- | ---------------------------------------------------------------------- |
-| Programming Languages   | Python, JavaScript (ES6+), TypeScript, SQL                             |
-| Backend                 | FastAPI, Django, Django REST Framework, Flask, Node.js, Express.js     |
-| Frontend                | React.js, Next.js, Redux Toolkit, HTML5, CSS3, Tailwind CSS, Bootstrap |
-| Databases               | PostgreSQL, MongoDB, MySQL, Redis                                      |
-| Cloud Platforms         | AWS (EC2, Lambda, S3, RDS, CloudWatch, API Gateway, Bedrock)           |
-| DevOps & Infrastructure | Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Linux          |
-| Messaging & Streaming   | Kafka, RabbitMQ, Redis Streams                                         |
-| AI & Machine Learning   | OpenAI, LangChain, Amazon Bedrock, RAG, NLP                            |
-| Testing & Quality       | PyTest, Selenium, Postman, Swagger/OpenAPI, SonarQube                  |
-| Version Control         | Git, GitHub, GitLab                                                    |
-| Project Management      | Agile, Scrum, JIRA, Confluence                                         |
+**AWS S3 • CloudFront • Route53 • WAF**
+
+* Designed and deployed a highly available cloud-hosted portfolio
+* Implemented CDN distribution and security protections
+* Configured HTTPS and custom domain routing
+
+🔗 https://portfolio.rishimajmudar.me
 
 ---
 
-# 🎓 Education
+## 📊 GitHub Statistics
 
-## Master of Engineering in Software Engineering
+<div align="center">
 
-**Carleton University**
-Ottawa, Ontario, Canada
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishimajmudar&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishimajmudar&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishimajmudar&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🎓 Education
+
+### Master of Engineering in Software Engineering
+
+Carleton University, Ottawa, Canada
 
 2024 – 2025
 
----
+### Bachelor of Engineering in Computer Science
 
-## Bachelor of Engineering in Computer Science
-
-**Gujarat Technological University**
-Gujarat, India
+Gujarat Technological University, India
 
 2019 – 2023
 
 ---
 
-### 📫 Connect With Me
+<div align="center">
 
-* LinkedIn: https://www.linkedin.com/in/rishi-majmudar-868665249/
-* Portfolio: https://portfolio.rishimajmudar.me/
-* GitHub: https://github.com/rishimajmudar
-* Email: [rishimajmudar25@gmail.com](mailto:rishimajmudar25@gmail.com)
+### Thanks for visiting my profile! 🚀
+
+Always interested in Cloud, DevOps, Full Stack Development, and AI Engineering.
+
+</div>
