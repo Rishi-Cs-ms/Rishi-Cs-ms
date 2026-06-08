@@ -168,7 +168,7 @@
 * Integrated GitHub Actions OIDC authentication
 * Improved deployment consistency and security posture
 
-🔗 https://aws-three-tier-architecture.rishimajmudar.me
+🔗 https://github.com/Rishi-Cs-ms/aws-three-tier-architecture
 
 ---
 
@@ -181,7 +181,7 @@
 * Implemented RBAC and IRSA security controls
 * Managed MongoDB StatefulSets and persistent storage
 
-🔗 https://github.com/rishimajmudar
+🔗 https://github.com/Rishi-Cs-ms/microservice-architecture-aws-eks
 
 ---
 
