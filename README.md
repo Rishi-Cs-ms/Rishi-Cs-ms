@@ -156,6 +156,7 @@
 * Achieved sub-10ms metadata retrieval using DynamoDB GSIs
 
 🔗 https://ai-doc-parser.rishimajmudar.me
+🔗 https://github.com/Rishi-Cs-ms/ai-doc-parser
 
 ---
 
