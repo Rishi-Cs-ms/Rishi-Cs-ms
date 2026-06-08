@@ -1,79 +1,207 @@
-<div align="center">
-  <h1 align="center">Hi there, I'm Rishi Majmudar 👋</h1>
-  <h3 align="center">Cloud & DevOps Engineer | Full Stack Developer</h3>
-</div>
+# Hi there, I'm Rishi Majmudar 👋
+
+### Full Stack Developer | Cloud-Native Applications | AWS & Kubernetes
 
 <p align="center">
-  Passionate about building scalable cloud infrastructure and robust web applications. 
-  <br>
-  Focused on <b>AWS</b>, <b>DevOps</b> practices, and modern <b>Full Stack</b> development.
+Full Stack Developer with 3+ years of experience building scalable web applications,
+cloud-native microservices, and distributed systems.
+
+Specialized in <b>Python</b>, <b>FastAPI</b>, <b>Django</b>, <b>React</b>, <b>TypeScript</b>, <b>AWS</b>, <b>Kubernetes</b>, and modern DevOps practices.
+
+Passionate about designing high-performance backend systems, event-driven architectures,
+and AI-powered applications.
+
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rishi-majmudar-868665249/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rishimajmudar11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-   <a href="https://portfolio.rishimajmudar.me/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
-  </a>
+
+<a href="https://www.linkedin.com/in/rishi-majmudar-868665249/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:rishimajmudar25@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://portfolio.rishimajmudar.me/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-### 🏆 Certifications
+# 🏆 Certifications
 
-| | Certification | Issued By |
-|:-:|---|---|
-| <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" width="80" alt="AWS SAA Badge"> | **AWS Certified Solutions Architect – Associate** <br> [View Badge](https://www.credly.com/badges/225b4e21-1626-4b0f-991b-7cd3a2a01d22/linked_in_profile) | Amazon Web Services (AWS) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="80" alt="CKA Logo"> | **Certified Kubernetes Administrator (CKA)** <br> [View Certificate](https://learn.kodekloud.com/certificate/0ac21477-5391-42e1-b44f-f9a8705188cd) | KodeKloud |
-| <img src="https://www.datocms-assets.com/2885/1629941242-logo-terraform-main.svg" width="80" alt="Terraform Logo"> | **Terraform** <br> [View Certificate](https://learn.kodekloud.com/user/certificate/28a0abd1-bf25-497a-b69f-9b65ced43105) | KodeKloud |
-
----
-
-### 🚀 Projects
-
-| Project | Description | Tech Stack | Link |
-|---|---|---|:-:|
-| **AI Document Parser** | Validates documents using **AI (Bedrock)**. Features secure authentication with **Cognito**, data storage in **DynamoDB**, and global delivery via **CloudFront** & **S3**. | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | [Live](https://ai-doc-parser.rishimajmudar.me/) |
-| **Cloud Portfolio** | Personal portfolio website hosted on **S3** and distributed via **CloudFront** with **WAF** rules for security. | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | [Live](https://portfolio.rishimajmudar.me/) |
-| **Three-Tier Architecture** | scalable AWS infrastructure provisioned using **Terraform**. Includes ALB, Auto Scaling, and RDS. | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) | [Live](https://aws-three-tier-architecture.rishimajmudar.me/) |
-| **Microservice Booking App** | A simple call booking application deployed on **EKS** (Microservices) with infrastructure managed by **Terraform**. | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | [Code](https://github.com/rishimajmudar?tab=repositories) |
+|                                                                                                                                                                                                | Certification                                     | Issued By           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------- | ------------------- |
+| <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" width="80"> | **AWS Certified Solutions Architect – Associate** | Amazon Web Services |
+|                                                 <img src="https://www.cncf.io/wp-content/uploads/2020/07/kubernetes-icon-color.svg" width="80">                                                | **Certified Kubernetes Administrator (CKA)**      | CNCF                |
+|                                                  <img src="https://www.datocms-assets.com/2885/1629941242-logo-terraform-main.svg" width="80">                                                 | **Terraform Associate**                           | HashiCorp           |
 
 ---
 
-### � Technical Skills
+# 💼 Professional Experience
 
-| Category | Skills |
-|---|---|
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=postman&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) <br> *(EC2, S3, Lambda, Render, MongoDB Atlas)* |
-| **Tools** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+## Full Stack Developer | DXC Technology
 
----
+📍 Canada | Jan 2025 – Present
 
-### 💼 Experience
+* Developed and modernized Python microservices using FastAPI for large-scale financial systems.
+* Built Kafka-based event-driven architectures processing 15,000+ trade events per second.
+* Optimized PostgreSQL and MongoDB databases, improving query performance by 20%.
+* Implemented Redis caching, reducing API response times by over 35%.
+* Developed React + TypeScript dashboards for operational monitoring and trade lineage tracking.
+* Containerized services with Docker and deployed on Kubernetes clusters with autoscaling.
+* Improved platform reliability to 99.9% uptime.
+* Strengthened CI/CD pipelines using Jenkins, GitHub Actions, PyTest, and automated testing.
 
-**Lecturer** | KPGU, Vadodara, India  
-*5 Months*  
-- Delivered lectures on computer science fundamentals and web technologies.
+### Tech Stack
 
-**Web Developer Intern** | Royalsoft Solutions, Vadodara, India  
-*4 Months*  
-- Developed responsive web interfaces using HTML, CSS, and JavaScript. Supported backend development using Node.js and Express.
+`Python` `FastAPI` `Kafka` `Redis` `PostgreSQL` `MongoDB` `React` `TypeScript` `Docker` `Kubernetes` `Jenkins`
 
 ---
 
-### 🎓 Education
+## Full Stack Developer | Newgen Software
 
-**Master of Engineering in Software Engineering**  
-*Carleton University, Ottawa, Canada | 2023 – 2025*
+📍 India | May 2022 – Dec 2023
 
-**Bachelor of Engineering in Computer Science**  
-*Gujarat Technological University, India | 2019 – 2023*
+* Designed and developed microservices using FastAPI and Django REST Framework.
+* Built scalable backend services for workflow management and document processing.
+* Implemented Kafka event streaming architecture for real-time synchronization.
+* Optimized PostgreSQL databases through indexing and query tuning.
+* Developed React.js and TypeScript interfaces improving user productivity.
+* Integrated OAuth2 and Keycloak-based authentication and authorization.
+* Built CI/CD pipelines using GitLab CI, Jenkins, Docker, and SonarQube.
+* Improved API latency and overall application performance.
 
+### Tech Stack
 
+`Python` `FastAPI` `Django REST` `React.js` `TypeScript` `Kafka` `PostgreSQL` `Docker` `Jenkins`
+
+---
+
+# 🚀 Projects
+
+## AI Document Parser
+
+### Technologies
+
+AWS Bedrock • Textract • Lambda • DynamoDB • CloudFront • S3 • React
+
+* Built a serverless document processing platform using AWS services.
+* Automated OCR and document validation workflows using Amazon Textract and Bedrock.
+* Processed 1,000+ documents with zero idle compute costs.
+* Reduced infrastructure costs by 40%.
+* Optimized DynamoDB using Global Secondary Indexes (GSI) achieving sub-10ms query latency.
+
+🔗 https://ai-doc-parser.rishimajmudar.me/
+
+---
+
+## AWS Three-Tier Architecture
+
+### Technologies
+
+AWS • Terraform • GitHub Actions • CloudFront • ALB
+
+* Provisioned production-grade infrastructure using Terraform modules.
+* Implemented secure networking, ALB, Auto Scaling, and RDS.
+* Integrated GitHub Actions OIDC authentication.
+* Reduced deployment effort and ensured infrastructure consistency.
+* Improved security by eliminating long-lived cloud credentials.
+
+🔗 https://aws-three-tier-architecture.rishimajmudar.me/
+
+---
+
+## Cloud Portfolio Website
+
+### Technologies
+
+AWS S3 • CloudFront • Route53 • WAF
+
+* Designed and deployed a highly available personal portfolio website.
+* Configured CloudFront CDN and AWS WAF for performance and security.
+* Implemented custom domain management and HTTPS.
+
+🔗 https://portfolio.rishimajmudar.me/
+
+---
+
+## Microservices on Amazon EKS
+
+### Technologies
+
+Amazon EKS • Kubernetes • Docker • Terraform • MongoDB
+
+* Deployed containerized microservices on Amazon EKS.
+* Configured Horizontal Pod Autoscaling (HPA) and self-healing workloads.
+* Implemented RBAC and IAM Roles for Service Accounts (IRSA).
+* Managed stateful MongoDB workloads with persistent storage.
+* Achieved high availability and zero-loss scaling.
+
+🔗 https://github.com/rishimajmudar
+
+---
+
+# 🛠 Technical Skills
+
+| Category                | Skills                                                                 |
+| ----------------------- | ---------------------------------------------------------------------- |
+| Programming Languages   | Python, JavaScript (ES6+), TypeScript, SQL                             |
+| Backend                 | FastAPI, Django, Django REST Framework, Flask, Node.js, Express.js     |
+| Frontend                | React.js, Next.js, Redux Toolkit, HTML5, CSS3, Tailwind CSS, Bootstrap |
+| Databases               | PostgreSQL, MongoDB, MySQL, Redis                                      |
+| Cloud Platforms         | AWS (EC2, Lambda, S3, RDS, CloudWatch, API Gateway, Bedrock)           |
+| DevOps & Infrastructure | Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Linux          |
+| Messaging & Streaming   | Kafka, RabbitMQ, Redis Streams                                         |
+| AI & Machine Learning   | OpenAI, LangChain, Amazon Bedrock, RAG, NLP                            |
+| Testing & Quality       | PyTest, Selenium, Postman, Swagger/OpenAPI, SonarQube                  |
+| Version Control         | Git, GitHub, GitLab                                                    |
+| Project Management      | Agile, Scrum, JIRA, Confluence                                         |
+
+---
+
+# 🎓 Education
+
+## Master of Engineering in Software Engineering
+
+**Carleton University**
+Ottawa, Ontario, Canada
+
+2024 – 2025
+
+---
+
+## Bachelor of Engineering in Computer Science
+
+**Gujarat Technological University**
+Gujarat, India
+
+2019 – 2023
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rishimajmudar&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishimajmudar&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishimajmudar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/rishi-majmudar-868665249/
+* Portfolio: https://portfolio.rishimajmudar.me/
+* GitHub: https://github.com/rishimajmudar
+* Email: [rishimajmudar25@gmail.com](mailto:rishimajmudar25@gmail.com)
