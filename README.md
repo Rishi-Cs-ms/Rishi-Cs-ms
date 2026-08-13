@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer with 3+ years of experience building scalable applications
+* 💻 Full Stack Developer with experience of building scalable applications
 * ☁️ AWS Certified Solutions Architect – Associate
 * ⚙️ Certified Kubernetes Administrator (CKA)
 * 🐳 Experienced with Docker, Kubernetes, Terraform, and CI/CD pipelines
@@ -107,39 +107,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
----
-
-## 💼 Professional Experience
-
-### Full Stack Developer | DXC Technology
-
-📍 Canada | Jan 2025 – Present
-
-* Developed Python-based microservices using FastAPI for enterprise-scale systems
-* Built Kafka-powered event-driven architectures processing 15,000+ events per second
-* Optimized PostgreSQL and MongoDB performance, improving query response times
-* Implemented Redis caching reducing API latency by over 35%
-* Built React + TypeScript dashboards for monitoring and operational workflows
-* Containerized applications using Docker and Kubernetes
-* Improved reliability with CI/CD pipelines using Jenkins and GitHub Actions
-
-**Tech Stack:** Python • FastAPI • Kafka • Redis • PostgreSQL • MongoDB • React • TypeScript • Docker • Kubernetes
-
----
-
-### Full Stack Developer | Newgen Software
-
-📍 India | May 2022 – Dec 2023
-
-* Developed scalable microservices using FastAPI and Django REST Framework
-* Built workflow management and document-processing systems
-* Implemented Kafka event streaming for real-time synchronization
-* Optimized PostgreSQL databases and backend APIs
-* Developed React.js + TypeScript applications
-* Integrated OAuth2 and Keycloak-based authentication
-* Automated deployments with Jenkins, Docker, GitLab CI and SonarQube
-
-**Tech Stack:** Python • FastAPI • Django • React • TypeScript • Kafka • PostgreSQL • Docker • Jenkins
 
 ---
 
