@@ -39,26 +39,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rishi-majmudar-868665249/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rishimajmudar25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://portfolio.rishimajmudar.me/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 ## 🏆 Certifications
 
 | Certification                                 | Issued By           |
@@ -150,18 +130,6 @@
 * Managed MongoDB StatefulSets and persistent storage
 
 🔗 https://github.com/Rishi-Cs-ms/microservice-architecture-aws-eks
-
----
-
-### 🌐 Cloud Portfolio Website
-
-**AWS S3 • CloudFront • Route53 • WAF**
-
-* Designed and deployed a highly available cloud-hosted portfolio
-* Implemented CDN distribution and security protections
-* Configured HTTPS and custom domain routing
-
-🔗 https://portfolio.rishimajmudar.me
 
 ---
 
